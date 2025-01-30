@@ -1,1 +1,1 @@
-# serial-killers-web.
+# serial-killers-web
